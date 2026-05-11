@@ -53,6 +53,7 @@ Art collectors, libraries, and universities around the world can subscribe and r
 
 ## :link: 2. Earth Weaving
 ![image alt](https://github.com/cesarharada/Art-for-Peace-Centre/blob/547baa638fde0c34d1580fac538efef7d74f51fc/Images/Harada%20World%20Map.png)
+[Map](https://www.google.com/maps/d/edit?mid=1WfqUnbpvTZ5FnZscbjjSYuetaLY&usp=sharing)
 
 - **In green** are the locations where Tetsuo Harada has already installed sculptures accessible to the public. Mostly Western Europe and East Asia.
 - **In red** are the locations suggested by peace researcher Seth Kinzie that are symbolic locations to build Art for Peace communities, and that are already of historical or symbolic importance.
