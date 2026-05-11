@@ -18,7 +18,7 @@ Born in the ashes of post-war Japan, Tetsuo HARADA (1949-2024) was a Japanese mo
 ![image alt](https://github.com/cesarharada/Art-for-Peace-Centre/blob/d61afbd614824922090a330431ede924760d1c95/Images/Video.png)
 https://youtu.be/Kw6ZHwRmuOg?si=06LvySJxnvmA-xQ0
 
-For his dream of “Earth Weaving”, he created huge links of granite that would emerge from the ground, re-enter the earth, and re-appear in a different country—transforming the whole planet into one artwork, building the “internet of friendship”. In 1995, he built Japan’s largest sculpture: a decorated ecological dam that is a 300-ton, 120-meter-long granite sculpture.
+For his dream of “Earth Weaving”, he created huge links of granite that would emerge from the ground, re-enter the earth, and re-appear in a different country—transforming the whole planet into one artwork, building the “internet of friendship”. In 1995, he built Japan’s largest sculpture: a decorated ecological dam that is a 300-ton, 120-meter-long granite sculpture. Learn more about Tetsuo Harada: https://www.tetsuoharada.com/
 <br/>
 ![image alt](https://github.com/cesarharada/Art-for-Peace-Centre/blob/d61afbd614824922090a330431ede924760d1c95/Images/Tetsuo%20Harada.png)
 <br/>
