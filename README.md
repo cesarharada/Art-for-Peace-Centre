@@ -87,7 +87,6 @@ We are still looking for the location, but ideally it would be within the Greate
 - [ ] Storage -> Local M-Disc solution for individual storage
 - [ ] Journal -> Annual Journal of Art for Peace
 - [ ] Spindle -> Offline validator for the Art for Peace network
-- [ ] People
 - [ ] Log
 </br>
 
