@@ -1,5 +1,5 @@
 # Art for Peace Centre
-# :skull_and_crossbones: What challenge are we trying to solve?
+# :skull_and_crossbones: What challenge are we trying to address?
 ![image alt](https://github.com/cesarharada/Art-for-Peace-Centre/blob/d61afbd614824922090a330431ede924760d1c95/Images/War.png)
 
 War is spreading around the world. Technological acceleration, climate change, biodiversity loss, mass migration will further disrupt our societies. We take peace for granted, until we no longer have it. War destroys everything. 
@@ -24,7 +24,7 @@ For his dream of “Earth Weaving”, he created huge links of granite that woul
 <br/>
 
 # :peace_symbol: What does it have to do with Art for Peace?
-Tetsuo HARADA passed away in Nov 2024 and left behind hundreds of sculptures and thousands of paintings and drawings. In the process of archiving and promoting his legacy of art for peace, we will develop workflows, tools, and infrastructure that can be useful for other artists, and for cultural institutions learning and collaborating with the best in the industry. 
+Tetsuo HARADA passed away in Nov 2024 and left behind hundreds of sculptures and thousands of paintings and drawings. In the process of archiving and promoting his legacy of art for peace, we will develop workflows, tools (local and cloud-based apps), and infrastructure (storage technology, buildings) that could be useful for other artists and cultural institutions. We choose to collaborate here on Github, to keep the process transparent from the start.
 <br/>
 <br/>
 
@@ -36,7 +36,7 @@ With museum-grade calibration, we photograph, 2D scan, and 3D scan the spaces, s
 
 - **On your local hard drive**, a simple folder neatly organised in sub-folders that are correctly named and accessible through an easy-to-use local offline app.
 - **In the cloud**, you will be able to upload that same folder and choose what you want to share or conceal.
-- **For long-term storage offline, we use M-disk**, which is a type of low-cost (5USD per 100 GB) that is guaranteed to last a thousand years and that can be engraved and read on a regular DVD writer / player device.
+- **For long-term storage offline, we use M-disk**, which is a type of low-cost (5USD per 100 GB) that is guaranteed to last a thousand years and that can be engraved and read on a regular DVD writer / player device. See https://www.mdisc.com/
 
 Having well-organised annotated data would enable artists to easily create websites, exhibition catalogues, books and catalogue raisonné with AI. We aim to build an open source platform that can improve from https://artlogic.net/ (for artists) and https://preservica.com/  (for archivists and library) based on state of the art standards such as https://www.dublincore.org/. 
 
@@ -47,11 +47,9 @@ We want to archive the most important artworks for peace in the world to survive
 - **Art for Peace Spindle:** a single M-Disc with new artworks for peace. It will contain the same artworks found in the A4 paper journal, with all the same metadata.
 
 ![image alt](https://github.com/cesarharada/Art-for-Peace-Centre/blob/547baa638fde0c34d1580fac538efef7d74f51fc/Images/Art%20for%20Peace%20Spindle.jpg)
-Art collectors, libraries, and universities around the world can subscribe and receive updates to their local copy of the “Art for Peace Spindle”. This way, even in case of WW3 or WW4, we should always be able to find a copy of Art for Peace somewhere.
+Art collectors, libraries, and universities around the world can subscribe and receive updates to their local copy of the “Art for Peace Spindle”. This way, even in case of WW3 or WW4, we should always be able to find a copy of Art for Peace somewhere. Future generations will find that, even in times of war, humans had a conscience, and collaborated to create and protect beauty and meaning together. We call each node of this network of archive spindle an "offline validator" - borrowing a concept from the blockchain.
 
-Future generations will find that, even in times of war, humans had a conscience, and collaborated to create and protect beauty and meaning together.
-![image alt](https://github.com/cesarharada/Art-for-Peace-Centre/blob/547baa638fde0c34d1580fac538efef7d74f51fc/Images/Offline%20validator.png)
-<br/>
+<img src="https://github.com/cesarharada/Art-for-Peace-Centre/blob/547baa638fde0c34d1580fac538efef7d74f51fc/Images/Offline%20validator.png" alt="Offline Validator" align="middle" width="400" height="400">
 
 ## :link: 2. Earth Weaving
 ![image alt](https://github.com/cesarharada/Art-for-Peace-Centre/blob/547baa638fde0c34d1580fac538efef7d74f51fc/Images/Harada%20World%20Map.png)
@@ -83,7 +81,7 @@ We are still looking for the location, but ideally it would be within the Greate
 # :lotus: Project structure
 **artforpeacecentre.org/**
 
-1. Archive (tools)
+**1. Archive (tools)** 
 - [ ] LocalApp -> Local app (built with SQLite)
 - [ ] CloudApp -> Cloud app (built with PostgreSQL)
 - [ ] Storage -> Local M-Disc solution for individual storage
@@ -93,11 +91,11 @@ We are still looking for the location, but ideally it would be within the Greate
 - [ ] Log
 </br>
 
-2. Earth Weaving (global network)
+**2. Earth Weaving (global network)**
 - [ ] Map
 </br>
 
-3. Art For Peace Centre (spaces & communities)
+**3. Art For Peace Centre (spaces & communities)**
 - [ ] Exhibition
 - [ ] Event
 - [ ] Shop_Cafe
@@ -109,7 +107,7 @@ We are still looking for the location, but ideally it would be within the Greate
 - [ ] Office
 </br>
 
-4. Website
+**4. Website**
 - [ ] Art_for_Peace
 - [ ] News
 - [ ] About
@@ -127,5 +125,4 @@ If you are interested to collaborate, we can do it here on github, and please re
 <br/>
 
 # :cityscape: Networks & Conference
-We intend to participate in this conference August 12-16 in Winnipeg, Canada. We hope to see you there. 
-[International Network of Museums for Peace](https://inmp.net/)
+We intend to participate the [International Network of Museums for Peace](https://inmp.net/) conference August 12-16 in Winnipeg, Canada. We hope to see you there!
