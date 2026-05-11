@@ -92,6 +92,8 @@ We are still looking for the location, but ideally it would be within the Greate
 
 **2. Earth Weaving (global network)**
 - [ ] Map
+- [ ] Video
+- [ ] Network
 </br>
 
 **3. Art For Peace Centre (spaces & communities)**
